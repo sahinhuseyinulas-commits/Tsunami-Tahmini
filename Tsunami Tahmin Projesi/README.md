@@ -1,4 +1,5 @@
 🌊 Deprem Kaynaklı Tsunami Tahminleme Projesi
+
 Bu proje, USGS ve NOAA verilerini kullanarak depremlerin tetiklediği tsunamilerin etkilerini analiz eden ve makine öğrenmesi ile tsunami yüksekliğini tahmin etmeyi hedefleyen bir veri bilimi çalışmasıdır.
 
 🛠 Proje Hakkında
